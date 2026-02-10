@@ -18,7 +18,7 @@ export default function Home() {
               Hello World
             </h1>
             <p className="max-w-[42ch] text-zinc-600 dark:text-zinc-400 text-lg leading-relaxed">
-              Testing the add-on feature in gmeet 
+              Testing the add-on feature in gmeet (updated)
             </p>
           </div>
 
